@@ -2,7 +2,7 @@
 
 ## {{cookiecutter.description}}
 
-#### This project was made by {cookiecutter.author}}.
+#### This project was made by {{cookiecutter.author}}.
 
 # 1. Business Problem.
 
